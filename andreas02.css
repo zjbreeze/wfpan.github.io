@@ -39,7 +39,7 @@ li {margin:0 0 3px 0;}
 .activenavitab {background:#505050 url(imgs/corner.gif) top right no-repeat; color:#fff; font-size:1.1em; margin:0 0 5px; padding:4px 8px 5px; text-decoration:none;}
 .activenavitab:hover {color:#fff; text-decoration:none;}
 
-/* Header description area repeat-y±³¾°*/
+/* Header description area repeat-yÂ±Â³Â¾Â°*/
 #desc {background:#505050 url(imgs/wfpan.jpg) bottom right no-repeat; clear:both; color:#fff;  height:178px; margin:5px 0 15px; padding:0 0 5px 0;}
 #desc p {font-size:1em; line-height:1.3em; padding:0 0 0 15px; width:400px;}
 #desc h2 {color:#fff; padding:15px 15px 0;}
@@ -61,7 +61,7 @@ ul.sidelink li a:hover {background:#e0e0e0 url(imgs/corner.gif) top right no-rep
 #footer {background:#fff; border-top:1px solid #d8d8d8; clear:both; margin:0; padding:0;}
 #footer a {color:gray;}
 #footer a:hover {color:#303030;}
-#footer p {color:gray; font-size:1.1em; line-height:1.3em; margin:15px 0 0; padding:0;}
+#footer p {color:gray; font-size:1.1em; line-height:1.3em; margin:15px 0 0; padding:0;text-align:center;}
 
 /* Additional classes */
 .photo {background-color:#f0f0f0; border:1px solid #d8d8d8; margin:0 0 15px; padding:2px;}
