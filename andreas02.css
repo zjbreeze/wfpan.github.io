@@ -86,6 +86,6 @@ ul.sidelink li a:hover {background:#e0e0e0 url(imgs/corner.gif) top right no-rep
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
-    background-color: #E02723;
+    background-color: #0366d6/*#E02723*/;
     border-radius: 10px;
 	}
